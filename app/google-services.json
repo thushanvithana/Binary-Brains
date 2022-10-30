@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326276235723",
+    "project_id": "first-mobile-app-5b458",
+    "storage_bucket": "first-mobile-app-5b458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326276235723:android:d8d0e9dc344a8e04a5b64e",
+        "android_client_info": {
+          "package_name": "com.example.artzoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326276235723-qdpm46mkq9md9m21eq6kb32qfiqcld2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrtx2XhzSzXBMLbY4DAxmYSjdUGnPD0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326276235723-qdpm46mkq9md9m21eq6kb32qfiqcld2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
